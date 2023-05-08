@@ -1,1 +1,1 @@
-# Regression-on-Netflix-Stock-Price-Data
+# Linear Regression model on Netflix historical stock price data of 5 years (date:26-04-2018 to 25-04-2023). Here we try to estimate close price of stock using open price and volume it was traded using linear regression model. We will also check for assumptions of regression model and for every failed assumption, we will update our regression model and make it a better fit.
